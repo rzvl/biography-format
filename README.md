@@ -11,7 +11,7 @@ The goal of this project was to learn the basics of CSS.
 This is a very short and simple biography page with a little bit of styling.
 This page was created by following the turorial below:
 
-Source: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge)
+Source: [Using your new knowlege](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Using_your_new_knowledge)
 
 
 ## Technologies Used
